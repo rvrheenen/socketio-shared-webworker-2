@@ -1,6 +1,6 @@
 {
-  "name": "socketio-shared-webworker",
-  "version": "1.1.0",
+  "name": "socketio-shared-webworker-2",
+  "version": "1.1.2",
   "description": "SocketIO client running inside a shared WebWorker thread",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IguMail/socketio-shared-webworker.git"
+    "url": "git+ssh://git@github.com/rvrheenen/socketio-shared-webworker-2.git"
   },
   "keywords": [
     "socket.io",
@@ -25,9 +25,9 @@
   "author": "gabe@fijiwebdesign.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IguMail/socketio-shared-webworker/issues"
+    "url": "https://github.com/rvrheenen/socketio-shared-webworker-2/issues"
   },
-  "homepage": "https://github.com/IguMail/socketio-shared-webworker#readme",
+  "homepage": "https://github.com/rvrheenen/socketio-shared-webworker-2#readme",
   "dependencies": {
     "debug": "^4.1.1",
     "eventemitter3": "^1.2.0",
